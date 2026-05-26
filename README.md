@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi 👋, I'm Sumit Gupta
+<h1 align="center" > Hi Everyone 👋, I'm Sumit Gupta </h1>
 
 <div align="center">
 
@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 <div align="center">
 
 ### 🚀 Full Stack Backend Engineer | Trading Infrastructure | Realtime Systems
+
+<img src="https://komarev.com/ghpvc/?username=Summit07&label=Profile%20Views&color=A020F0&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -62,9 +64,9 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://sumiit-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-gupta-0b4099140/)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Summit07)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:summitgupta07@gmail.com)
 
 </div>
